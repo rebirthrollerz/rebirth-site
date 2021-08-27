@@ -46,3 +46,4 @@ Download the package then edit the HTML and CSS files included with the template
 # Copyright and License
 
 Copyright 2018-2019 [Position2 Inc](https://www.position2.com/). Code released under the [MIT](https://github.com/Position2/free-bootstrap-theme-t/blob/master/LICENSE) license.
+ Changed
